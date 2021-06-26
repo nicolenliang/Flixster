@@ -25,9 +25,9 @@ The following **stretch** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
-  * [ ] Included release date, movie genre, and original language in the move details
-  * [ ] Users can see the rating and vote score in the display
-  * [ ] Included a **read more** feature for the movie overviews
+##  * [ ] Included release date, movie genre, and original language in the move details
+##  * [ ] Users can see the rating and vote score in the display
+##  * [ ] Included a **read more** feature for the movie overviews
 
 ## Video Walkthrough
 
@@ -40,7 +40,8 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The thing that took the most time was implementing additional UI features. However, this assignment helped me understand things conceptually a bit better.
+**App still being updated!**
 
 ## Open-source libraries used
 
