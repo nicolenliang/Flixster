@@ -25,9 +25,9 @@ The following **stretch** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
-##  * [ ] Included release date, movie genre, and original language in the move details
-##  * [ ] Users can see the rating and vote score in the display
-##  * [ ] Included a **read more** feature for the movie overviews
+//  * [ ] Included release date, movie genre, and original language in the move details
+//  * [ ] Users can see the rating and vote score in the display
+//  * [ ] Included a **read more** feature for the movie overviews
 
 ## Video Walkthrough
 
